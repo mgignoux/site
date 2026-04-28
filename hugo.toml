@@ -1,0 +1,10 @@
+baseURL = "https://empurios.com/"
+languageCode = "en-us"
+title = "Madeleine Gignoux"
+theme = "hugo-bearblog"
+
+[params]
+  author = "Madeleine Gignoux"
+  description = "Personal site — portfolio, CV, and more."
+  showHeader = true
+  home = "Hi, I'm Madeleine."
